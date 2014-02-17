@@ -27,12 +27,12 @@ footer a:hover {
 }
 
 #headline {
-	padding: 2em 0;
+	padding: 3em 0;
 	margin: 0;
 	background-color: black;
 	background-image: url(../img/bwv232-credo.jpg);
 	background-size: 100%;
-	background-position: center center;
+	background-position: 50% 0%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
@@ -40,11 +40,16 @@ footer a:hover {
 #headline h1 {
 	color: #ededed;
 	text-shadow: 0px 0px 10px rgba(0,0,0,0.7);
-		margin: 0.5em 0 1em 0;
+	/*margin: 0.5em 0 1em 0;*/
 }
 
 #intro {
+	padding-top: 0;
 	padding-bottom: 0;
+}
+
+#intro > .row > .columns {
+	padding-top: 1em;
 }
 
 #intro .subheadline {
@@ -59,6 +64,7 @@ footer a:hover {
 .visualization {
 	height: 256px;
 	margin: 0;
+	padding: 0;
 	background-color: rgb(63, 63, 63);
 	background-image: url(../img/chord-circle-e7.png);
 	background-position: 50%;
@@ -74,4 +80,15 @@ footer a:hover {
 
 .th-round {
 	border-radius: 100%;
+}
+
+.triangle-down {
+	content: "";
+	display: block;
+	width: 0;
+	height: 0;
+	border: inset 2em;
+	border-color: white transparent transparent transparent;
+	border-top-style: solid;
+	margin: 0 auto;
 }
