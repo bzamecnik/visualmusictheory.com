@@ -1,0 +1,77 @@
+body {
+	margin-bottom: 0;
+}
+
+header {
+	background: #eee;		
+}
+
+section {
+	margin: 1em 0;
+	padding: 1em 0;
+}
+
+footer {
+	background: #333;
+	color: #999;
+	padding: 1em 0;
+}
+
+footer a {
+	color: #ccc;
+}
+
+footer a:hover {
+	color: #eee;
+	text-decoration: underline;
+}
+
+#headline {
+	padding: 2em 0;
+	margin: 0;
+	background-color: black;
+	background-image: url(/img/bwv232-credo.jpg);
+	background-size: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+#headline h1 {
+	color: #ededed;
+	text-shadow: 0px 0px 10px rgba(0,0,0,0.7);
+		margin: 0.5em 0 1em 0;
+}
+
+#intro {
+	padding-bottom: 0;
+}
+
+#intro .subheadline {
+	margin-bottom: 1em;
+}
+
+#story {
+	background: #eee;
+	margin-top: 0;
+}
+
+.visualization {
+	height: 256px;
+	margin: 0;
+	background-color: rgb(63, 63, 63);
+	background-image: url(/img/chord-circle-e7.png);
+	background-position: 50%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+@media only screen and (max-width: 40em) {
+	.visualization {
+		background-size: 256px;
+	}
+}
+
+.th-round {
+	border-radius: 100%;
+}
