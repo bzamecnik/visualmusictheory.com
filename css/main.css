@@ -30,7 +30,7 @@ footer a:hover {
 	padding: 2em 0;
 	margin: 0;
 	background-color: black;
-	background-image: url(/img/bwv232-credo.jpg);
+	background-image: url(../img/bwv232-credo.jpg);
 	background-size: 100%;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -60,7 +60,7 @@ footer a:hover {
 	height: 256px;
 	margin: 0;
 	background-color: rgb(63, 63, 63);
-	background-image: url(/img/chord-circle-e7.png);
+	background-image: url(../img/chord-circle-e7.png);
 	background-position: 50%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
