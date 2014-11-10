@@ -24,5 +24,6 @@ DISQUS_SITENAME = "visualmusictheory"
 GOOGLE_ANALYTICS = "UA-44857522-3"
 GITHUB_URL='https://github.com/bzamecnik/visualmusictheory.com'
 
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME', 'skype-lessons']
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+ARTICLE_EXCLUDES=['skype-lessons']
