@@ -4,11 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Bohumír Zámečník'
 SITENAME = 'Visual Music Theory'
-SITEURL = ''
+SITEURL = '' # SITEURL = 'http://visualmusictheory.com'
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Prague'
 
 DEFAULT_LANG = 'en'
 
@@ -20,16 +20,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+    ('Bohumír Zámečník', 'http://bohumirzamecnik.cz/'),
+    ('Neural Toughts', 'http://neural.cz/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/bzamecnik'),)
 
 DEFAULT_PAGINATION = 10
+
+LOCALE = ('en_US')
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
