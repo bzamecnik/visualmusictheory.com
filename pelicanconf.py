@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ('Bohumír Zámečník', 'http://bohumirzamecnik.cz/'),
-    ('Neural Toughts', 'http://neural.cz/'),)
+    ('Neural Thoughts', 'http://neural.cz/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/bzamecnik'),)
@@ -33,3 +33,4 @@ LOCALE = ('en_US')
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+ARTICLE_EXCLUDES=['skype-lessons']
