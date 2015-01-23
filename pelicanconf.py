@@ -39,8 +39,3 @@ LOCALE = ('en_US')
 ARTICLE_EXCLUDES=['skype-lessons']
 
 #STATIC_PATHS = ['images', 'fooimages']
-
-STATIC_PATHS = ['extra/favicon.ico']
-EXTRA_PATH_METADATA = {
-    'extra/favicon.ico': {'path': 'favicon.ico'}
-}
