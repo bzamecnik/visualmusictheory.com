@@ -1,6 +1,7 @@
 Title: Visual Music Theory
 Date: 2015-01-25
 Category: Music theory
+Summary: Introducing this blog focused on music theory through visualization and making complex things simple. Find out what kind of content you can expect, for whom it is written and why.
 
 In this post I'd like to introduce my blog [Visual Music Theory](http://www.visualmusictheory.com/) - what kind of content you can expect, for whom it is written and why.
 
