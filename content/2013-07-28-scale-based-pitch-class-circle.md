@@ -1,7 +1,8 @@
 Title: Scale-based Tone Circle
 Slug: scale-based-tone-circle
 Date: 2013-07-28 12:16:00 +0200
-Category: music theory
+Category: Music theory
+Tags: Tone circle, Chord, Chord progression
 
 <img src="http://i.visualmusictheory.com/scale-based-tone-circle/7scale-step2-4-cmaj7-chord.png">
 

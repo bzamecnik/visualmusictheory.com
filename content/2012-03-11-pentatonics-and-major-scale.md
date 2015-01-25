@@ -1,6 +1,7 @@
 Title: Pentatonics and major scale
 Date: 2012-03-11 17:06:00 +0100
-Category: music theory
+Category: Music theory
+Tags: Scale, Mode, Pentatonic, Diatonic
 
 In this post we will explore modes, the pentatonic scale and its modes, modes of the major scale, the relationships between pentatonic scale modes and the major scale modes and also with the dorian bebop and chromatic scale.
 

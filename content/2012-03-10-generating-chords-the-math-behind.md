@@ -1,7 +1,8 @@
 Title: Generating chords - the math behind
 Slug: generating-chords-the-math-behind
 Date: 2012-03-10 19:17:00 +0100
-Category: music theory
+Category: Music theory
+Tags: Chord, Scale, Diatonic, Melodic minor, Harmonic minor, Double harmonic
 
 Musical chords might seem just as random groups of tones. What makes them sound “good” alone or together a in sequence? Are there any rules for creating chords or groups of chords that make harmony? Ever wondered why progressions like `IIm7` `V7` `Imaj7` `VIIm7b5` `III7alt` `VIm7` work so well and contain right those chords? In the following text we will explore the ways some of type simpler chord type can be generated from an ordinary scale and also quite a different approach for generating some familiar chords. We will also see some relation to mathematics.
 
