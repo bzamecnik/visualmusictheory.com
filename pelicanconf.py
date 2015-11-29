@@ -38,4 +38,4 @@ LOCALE = ('en_US')
 #RELATIVE_URLS = True
 ARTICLE_EXCLUDES=['skype-lessons']
 
-#STATIC_PATHS = ['images', 'fooimages']
+STATIC_PATHS = ['images']
