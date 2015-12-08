@@ -9,7 +9,7 @@ SITE_DESCRIPTION='Music theory, processing, visualization, analysis'
 
 PATH = 'content'
 
-THEME='/Users/bzamecnik/python/pelican/pelican-themes/bza_aboutwilson'
+THEME='/Users/bzamecnik/python/pelican/pelican-themes/pelican-elegant'
 
 TIMEZONE = 'Europe/Prague'
 
