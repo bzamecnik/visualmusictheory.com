@@ -28,7 +28,11 @@ LINKS = (
     ('Neural Thoughts - machine learning', 'http://neural.cz/'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/bzamecnik'),)
+SOCIAL = (
+    ('Twitter', 'https://twitter.com/bzamecnik'),
+    ('GitHub', 'https://github.com/bzamecnik'),
+    ('LinkedIn', 'https://cz.linkedin.com/in/bohumirzamecnik'),
+)
 
 DEFAULT_PAGINATION = 10
 
