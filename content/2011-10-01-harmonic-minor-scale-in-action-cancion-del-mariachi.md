@@ -1,11 +1,11 @@
 Title: Harmonic minor scale in action - Cancion del Mariachi
 Date: 2011-10-01 00:17:00 +0100
 Category: Music theory
-Tags: Harmonic analysis, Song
+Tags: Song Dissection
 
 Let’s start the blog with with some brief, yet interesting, thoughts. I’ve ever liked the distinct sound of latin or spanish music which is full of passion. Also I’ve wondered what is the key to it. As an example take the song [Cancion del Mariachi by Los Lobos](http://www.youtube.com/watch?v=TY3F5A9L3V0).
 
-<!--more-->
+<iframe width="420" height="315" src="https://www.youtube.com/embed/TY3F5A9L3V0" frameborder="0" allowfullscreen></iframe>
 
 When we look at the chords of the song we can clearly see (or rather hear) the following:
 
