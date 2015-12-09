@@ -43,3 +43,10 @@ LOCALE = ('en_US')
 ARTICLE_EXCLUDES=['skype-lessons']
 
 STATIC_PATHS = ['images']
+
+# Elegant Labels
+SOCIAL_PROFILE_LABEL = 'Stay in Touch'
+# RELATED_POSTS_LABEL = 'Keep Reading'
+# SHARE_POST_INTRO = 'Like this post? Share on:'
+COMMENTS_INTRO = 'So what do you think? Did I miss something? Is any part unclear? Leave your comments below.'
+
