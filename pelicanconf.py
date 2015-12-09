@@ -50,3 +50,9 @@ SOCIAL_PROFILE_LABEL = 'Stay in Touch'
 # SHARE_POST_INTRO = 'Like this post? Share on:'
 COMMENTS_INTRO = 'So what do you think? Did I miss something? Is any part unclear? Leave your comments below.'
 
+# Mailchimp
+EMAIL_SUBSCRIPTION_LABEL = 'Never miss an article'
+EMAIL_FIELD_PLACEHOLDER = 'Enter your email'
+SUBSCRIBE_BUTTON_TITLE = 'Send me free updates'
+# group[981][4]=1 = "Music Theory"
+MAILCHIMP_FORM_ACTION = 'http://bohumirzamecnik.us12.list-manage1.com/subscribe?u=132db635fd4dc81131d9491db&id=f15d396091&group[981][4]=1'
