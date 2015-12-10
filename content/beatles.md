@@ -142,7 +142,7 @@ Based on this dataset we'll be gradually [dissecting and analyzing](song-dissect
 - 08-12 - Sgt. Pepper's Lonely Hearts Club Band (Reprise)
 - 08-13 - A Day In The Life
 
-## 09 - Magical Mystery Tour/01 - Magical Mystery Tour
+## 09 - Magical Mystery Tour
 
 - 09-01 - Magical Mystery Tour
 - 09-02 - The Fool On The Hill
@@ -181,7 +181,7 @@ Based on this dataset we'll be gradually [dissecting and analyzing](song-dissect
 - 10CD2 - 01 - Birthday
 - 10CD2 - 02 - Yer Blues
 - 10CD2 - 03 - Mother Nature's Son
-10CD2 - 04 - Everybody's Got Something To Hide Except Me and - My Monkey
+- 10CD2 - 04 - Everybody's Got Something To Hide Except Me and My Monkey
 - 10CD2 - 05 - Sexy Sadie
 - 10CD2 - 06 - Helter Skelter
 - 10CD2 - 07 - Long Long Long
