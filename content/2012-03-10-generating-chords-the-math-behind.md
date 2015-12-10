@@ -8,6 +8,8 @@ Musical chords might seem just as random groups of tones. What makes them sound 
 
 <!--more-->
 
+[TOC]
+
 First, we will state the context and terms used throughout the text. We assume we are working with 12-tone [equal temperament](http://en.wikipedia.org/wiki/Equal_temperament), [enharmonic equivalence](http://en.wikipedia.org/wiki/Enharmonic) and also [octave equivalence](http://en.wikipedia.org/wiki/Octave_equivalence). The main tool for us will be *[pitch classes](http://en.wikipedia.org/wiki/Pitch_class)* and their *sets* (ordering does not matter) and sequences (ordering matters). Pitch class sets will be denoted by curly braces, eg. `{0, 5, 7, 2}`, while pitch class sequences by brackets, eg. `[0, 5, 7, 2]`.
 
 In practice this means that we are working with 12 half-tones denoted by numbers from 0 to 11. The zero pitch class can be assigned to an arbitrary half-tone and we will for simplicity assign it to C as people are most used to it. The pitch class numbers then correspond to the common notation as follows:
@@ -24,7 +26,7 @@ These assumptions and notation will be used also in the subsequent articles exce
 
 ## Generating chords from a scale
 
-A chord is nothing more difficult than a sequence of pitch classes. Sometimes when comparing chords the information about the order can be thrown away obtaining just pitch class sets. A trivial chord could just contain one or two pitch classes, eg. [6] or [2, 7]. In practice chords contain three or more pitch classes (in order to be musically interesting) which are played at the same. A scale is also a sequence of pitch classes which are in practice usually not played simultaneously. The notes in the scale are called scale 
+A chord is nothing more difficult than a sequence of pitch classes. Sometimes when comparing chords the information about the order can be thrown away obtaining just pitch class sets. A trivial chord could just contain one or two pitch classes, eg. [6] or [2, 7]. In practice chords contain three or more pitch classes (in order to be musically interesting) which are played at the same. A scale is also a sequence of pitch classes which are in practice usually not played simultaneously. The notes in the scale are called scale
 degrees, eg. the third degree corresponds to the zero-based index 3 – 1 = 2.
 
 ### An analysis of the simple II-V-I chord progression

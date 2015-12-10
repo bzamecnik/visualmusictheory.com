@@ -7,6 +7,8 @@ In this post we will explore modes, the pentatonic scale and its modes, modes of
 
 <!--more-->
 
+[TOC]
+
 ## Pentatonic scales
 
 Generally, a <a href="http://en.wikipedia.org/wiki/Pentatonic_scale">pentatonic scale</a> can be any scale of size five. In practice there are several scales with certain structure that are referred to as the pentatonic scales and which are heavily used in many genres. Two of them are the minor and major pentatonic scale. In the example we use the <a href="http://en.wikipedia.org/wiki/Pitch_class">pitch class</a> sequence notation.

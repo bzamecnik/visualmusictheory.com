@@ -14,6 +14,8 @@ Summary: <div class="row">
 		</div>
 	</div>
 
+![](http://i.visualmusictheory.com/songs/beatles/01-14-twist-and-shout/cover.png)
+
 Let's start dissecting songs with <a href="https://en.wikipedia.org/wiki/Twist_and_Shout">Twist and Shout</a> by The Beatles from the album Please, Please Me.
 
 It is a quite simple rock'n'roll song, a nice one to start with. Although it's not complicated it doesn't mean it's boring or there's nothing to explore and learn about. Quite opposite. Even I was surprised what interesting things we can figure out from such a three-chord song.
@@ -21,6 +23,8 @@ It is a quite simple rock'n'roll song, a nice one to start with. Although it's n
 So at first let's listen to it and feel the atmosphere of Beatlemania. And as John Lennon joked to Queen Mum: "People in the cheaper seats, clap your hands. And the rest of you, just rattle your jewelry." :)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/iS0wuN_6wyw" frameborder="0" allowfullscreen></iframe>
+
+[TOC]
 
 ## Big picture
 

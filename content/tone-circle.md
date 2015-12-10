@@ -14,6 +14,8 @@ Summary: <div class="row">
 
 The tone circle diagram a simple and intuitive visual tool that might help you enormously in analyzing harmonic aspects of music, even with just a pen and paper. You already know it. If you understand analog clock, you can understand much of the music theory.
 
+[TOC]
+
 ## Clock analogy
 
 Everyone knows *clock*, right? The plain old analog clock dial. Even if it may seem trivial, let's briefly review how it represents time, name the concepts and be aware of them. By the way, music and time have more in common than just a clock (as you'll learn later).
